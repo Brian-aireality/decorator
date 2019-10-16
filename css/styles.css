@@ -1,9 +1,21 @@
 header {
   text-align: center;
 }
-.column {
+body {
+  background-color: lightblue;
+}
+img {
   width: 300px;
+}
+.about {
+  text-align: center;
+}
+.column {
+  width: 30%;
   float: left;
-  padding: 15px;
-  margin: 10px;
+  text-align: center;
+  height: 500px;
+  background-color: blue;
+  margin:10px;
+
 }
