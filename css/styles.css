@@ -1,0 +1,9 @@
+header {
+  text-align: center;
+}
+.column {
+  width: 300px;
+  float: left;
+  padding: 15px;
+  margin: 10px;
+}
